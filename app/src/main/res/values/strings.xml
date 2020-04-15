@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginApp2020</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_add_user">Add user</string>
+    <string name="dialog_are_you_sure">Are you sure?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_confirm">ConfirmDialog</string>
+    <string name="text_view_add_user">Add user</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_add_user">AddUserDialog</string>
+
+    <string-array name="roles">
+        <item>guest</item>
+        <item>moderator</item>
+        <item>admin</item>
+    </string-array>
+
+</resources>
